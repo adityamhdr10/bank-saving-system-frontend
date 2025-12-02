@@ -90,4 +90,4 @@ Backend API: `https://bank-saving-system-api-production.up.railway.app/api`
 
 ## Author
 
-Nama Anda - NPM Anda
+Aditya Mahendra
